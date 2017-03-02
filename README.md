@@ -1,0 +1,2 @@
+# tecocraft
+autobetting
